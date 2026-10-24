@@ -1,0 +1,11 @@
+# Tested library versions. Use Python 3.14 to match the verification environment.
+pandas==2.3.3
+numpy==2.3.4
+scikit-learn==1.7.2
+joblib==1.5.2
+pydantic==2.13.3
+matplotlib==3.10.7
+jupyterlab==4.5.8
+ipykernel==7.2.0
+nbclient==0.11.0
+nbformat==5.10.4

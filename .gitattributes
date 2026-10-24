@@ -1,0 +1,3 @@
+* text=auto eol=lf
+# Preserve the source bytes and recognize the original CRLF in diffs.
+data/customer_churn.csv -text whitespace=cr-at-eol
